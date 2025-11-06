@@ -10,6 +10,4 @@
     <p>これは私の最初のウェブページです。</p>
 </body>
 </html>
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/A_group_of_fish.jpg"
-     alt="熱帯魚の群れ"
-     class="inserted-image">
+<img src="https://github.com/user-attachments/assets/3a322d66-1606-4148-8031-a67e221daf53" alt="風景写真" title="クリックで拡大">
